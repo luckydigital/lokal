@@ -11,20 +11,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?v=1.1",Nusantara
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1569758602_b744100_sleng.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1561775419_b744100_sleng.m3u8
-
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13",ANTARA
-http://iptvid.my.id/hmm/antara.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV
-https://live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
-
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w14396403.m3u8
 
@@ -52,43 +38,15 @@ http://rr1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
 http://210.210.155.35:80/session/606cfb24-478c-11ed-8ebd-b82a72d63267/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1646502094_b384000_sleng.m3u8
-
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w281762296_b384000_sleng.m3u8
-
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
 http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png?v=1",MyKidz
-http://210.210.155.35/session/21c6b7ca-a4ad-11ec-8c65-b82a72d63267/uq2663/h/h191/index.m3u8
-
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png"Dunia Anak
-http://iptvid.my.id/hmm/duniaanak.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Live Streaming 1
-http://rr3.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Live Streaming 2
-http://rr.dens.tv/h/h998/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_2
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", DensPlay
-http://group1-swiftservesd-1.dens.tv/s/s37/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DensPlay
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", DENS Life & Style
-http://rr1.dens.tv/h/h28/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DENS_Life_n_Style
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Dens Learning & Knowledge
-http://rr3.dens.tv/s/s36/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Learning_n_Knowledge
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Dens ShowBiz
-http://rr3.dens.tv/s/s35/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_ShowBiz
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Dens Food Channel
-http://rr3.dens.tv/s/s50/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Food_Channel_Trial-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Metro TV
 http://rr.dens.tv/h/h12/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Metro_TV
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", tvOne
 http://rr2.dens.tv/s/s105/index3.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvOne
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Kompas TV
 http://rr2.dens.tv/s/s104/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", BeritaSatu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", SCTV
 http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Indosiar
@@ -133,8 +91,7 @@ http://rr.dens.tv/h/h91/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 http://group1-swiftservehd-1.dens.tv/h/h101/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=UA%7CTV
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Al Jazeera Arabic
 http://rr2.dens.tv/s/s16/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Al_Jazeera_Arabic
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", CCTV-4
-http://rr2.dens.tv/s/s19/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCTV-4
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", France 24
 http://rr2.dens.tv/s/s22/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=France_24
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", TV5MONDE ASIE
@@ -151,18 +108,14 @@ http://rr2.dens.tv/s/s28/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=8293
 http://rr2.dens.tv/s/s27/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Sunna_TV
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", eGG
 http://rr.dens.tv/h/h22/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=eGG_HD
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", ANIPLUS
-http://rr1.dens.tv/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Animax
-http://rr1.dens.tv/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", My Kidz
 http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Kids Channel - Toonz Kids
 http://rr3.dens.tv/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", HITS
 http://rr1.dens.tv/h/h37/index1.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=HITS_HD
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", AXN
-http://rr1.dens.tv/h/h141/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", ROCK Entertainment
 http://rr1.dens.tv/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", ROCK Extreme
@@ -181,8 +134,7 @@ http://rr1.dens.tv/h/h20/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 http://rr1.dens.tv/h/h21/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_Movies_HD
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Celestial Movies
 http://rr1.dens.tv/h/h14/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Celestial_Movies
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", CCM (Celestial Classic Movies)
-http://rr2.dens.tv/s/s31/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CCM_Celestial_Classic_MV-
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DensTV" tvg-logo="", Zee Bioskop
